@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body {
+    font-size: 17px;
+    font-family: 'Barrio', cursive;
+}
+
+.navbar-left {
+    font-size: 25px;
+    color: #FF6A6A;
+    padding-top: 7px;
+}
